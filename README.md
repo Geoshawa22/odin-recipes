@@ -1,8 +1,8 @@
 # Odin Recipes
-An excercise in creating a basic recipes website.
+An excercise to create a basic recipe website.
 
 ## Goals
-- Strengthen HTML basics
-- Learn GIT best practices
-- Learn to create a presentable github project page
-- Learn to reliably host a website
+- Demonstrate HTML basics
+- Implement GIT best practices
+- Create a presentable github project page
+- Host a webpage on github
