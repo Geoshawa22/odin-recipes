@@ -18,3 +18,12 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-style: ridge;
     border-color:black
 }
+
+.main-image {
+    max-width: 100%;
+    max-height:250px;
+    object-fit:none;
+    border-style: solid;
+    border-width: 3px;
+
+}
