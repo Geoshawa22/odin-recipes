@@ -1,0 +1,19 @@
+#main-title{
+    background-color: rgb(74, 4, 139);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-list {
+background-color: green;
+color:white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-image {
+    height: 100px;
+    width: auto;
+    border: 2px;
+    border-style: ridge;
+    border-color:black
+}

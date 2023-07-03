@@ -1,5 +1,5 @@
 # Odin Recipes
-An excercise to create a basic recipe website.
+An exercise to create a basic recipe website.
 
 ## Goals
 - Demonstrate HTML basics
